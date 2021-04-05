@@ -24,7 +24,7 @@ Addtionally, the School Board has requested the removal of a number of scores fr
 
 ## Results
 
-Analysis of the input files was carried out in Python 3.7 using a Jupyter Notebook environment ([PyCitySchools_Challenge.ipynb Notebook](./PyCitySchools_Challenge.html)).
+Analysis of the input files was carried out in Python 3.7 using a Jupyter Notebook environment ([PyCitySchools_Challenge.ipynb Notebook](https://htmlpreview.github.io/?https://github.com/jose-perth/School_District_Analysis/blob/main/PyCitySchools_Challenge.html)).
 
 The student score data was cleaned and suspected scores marked as NaN (*Not A Number*) before aggregating to the the school data for the full analysis.
 
